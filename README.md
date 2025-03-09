@@ -46,6 +46,9 @@ git push origin main
 3. **Connect your GitHub repository** and deploy 🚀  
 
 ---
+![Chatbot Screenshot](https://github.com/HARICHANDANACS/nutritional_chatbot/blob/main/Screenshot%202025-03-09%20181843.png)
+(https://github.com/HARICHANDANACS/nutritional_chatbot/blob/main/Screenshot%202025-03-09%20181857.png)
+(https://github.com/HARICHANDANACS/nutritional_chatbot/blob/main/Screenshot%202025-03-09%20181919.png)
 
 
  
