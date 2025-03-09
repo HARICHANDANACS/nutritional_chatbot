@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Hugging Face API Key
-HF_API_KEY = "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"
+HF_API_KEY = "your-access-key"
 
 # Hugging Face Model URL (Choose an appropriate nutrition-based chatbot model)
 MODEL_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
