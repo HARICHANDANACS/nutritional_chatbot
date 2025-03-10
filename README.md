@@ -1,7 +1,7 @@
 ---
 
 # **Nutritional Chatbot**  
-
+https://nutritionalchatbot-mmbthqdemwc7ciwva7zbt7.streamlit.app/
 ## 📌 Overview  
 The **Nutritional Chatbot** is an AI-powered chatbot built with **Streamlit** that provides instant responses to nutrition-related queries. It utilizes a **Hugging Face Transformer model** to generate intelligent diet and health advice.  
 
